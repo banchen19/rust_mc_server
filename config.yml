@@ -1,6 +1,0 @@
-server_name: Rust_MC_Server_dev
-version: 1.20.12
-player_max: 2023
-gamemode: Survival
-ipv4_port: 8080
-ipv6_port: 19133
