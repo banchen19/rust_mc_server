@@ -11,8 +11,3 @@ pub extern "C" fn postint() -> Plugin {
     }
     
 }
-
-#[no_mangle]
-pub extern "C" fn on_event() ->  &'static str {
-    "获取事件"
-}

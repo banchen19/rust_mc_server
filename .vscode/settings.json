@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./rbds/Cargo.toml",
+        "./rbds/Cargo.toml",
+        "./server_plugin/Cargo.toml"
+    ]
+}
